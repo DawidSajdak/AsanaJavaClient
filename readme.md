@@ -31,7 +31,7 @@ GET   /users/user-id
 GET   /users/me
 GET   /users
 GET   /workspaces/workspace-id/users
-
+```
 ### Author: [Dawid Sajdak][0]
 
 [0]: https://github.com/DawidSajdak/
