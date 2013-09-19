@@ -35,3 +35,12 @@ GET   /workspaces/workspace-id/users
 ### Author: [Dawid Sajdak][0]
 
 [0]: https://github.com/DawidSajdak/
+
+> List of components and tools used to create Asana Java Api
+- [http-request](https://github.com/kevinsawicki/http-request)
+
+## License (MIT)
+
+Copyright (c) 2013, Dawid Sajdak
+
+**
