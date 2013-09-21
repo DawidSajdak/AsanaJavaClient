@@ -6,9 +6,6 @@
  */
 package it.trzy.asana.java.client;
 
-/**
- * @author Dawid Sajdak <dawid@trzy.it>
- */
 public interface Request {
 
     public void onSuccess(String response);
