@@ -353,7 +353,7 @@ public class AsanaRequest {
      * @param data Map<String, String>
      * @param callback Request
      */
-    public void createTagWorkspace(Map<String, String> data, Request callback){
+    public void createTag(Map<String, String> data, Request callback){
         this.post("/tags", data, callback);
     }
 
